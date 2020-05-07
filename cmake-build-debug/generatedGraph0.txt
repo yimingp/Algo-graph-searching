@@ -1,0 +1,52 @@
+20
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+[undirected]
+Q - N 4
+O - R 26
+H - P 13
+A - M 18
+M - N 5
+N - H 2
+P - G 30
+R - K 57
+S - D 18
+J - I 17
+G - J 8
+L - T 37
+T - S 47
+F - M 33
+E - N 2
+K - H 60
+D - G 23
+C - M 26
+I - E 3
+C - F 44
+A - F 28
+T - E 47
+N - G 28
+C - H 26
+I - G 46
+Q - G 40
+K - G 24
+L - G 41
+H - G 2
+N - L 9
